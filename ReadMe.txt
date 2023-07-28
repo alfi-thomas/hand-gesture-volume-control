@@ -1,0 +1,1 @@
+This OpenCV application allows you to control your laptop or PC's volume effortlessly using just hand gestures, like magic! No need to touch anything; the system tracks your hand movements in real-time and adjusts the volume accordingly. It works on both laptops and PCs, making it super easy to use. Enjoy the convenience of hands-free audio control with this user-friendly tool!
